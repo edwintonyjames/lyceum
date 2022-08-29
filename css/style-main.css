@@ -2416,6 +2416,9 @@ form .error {
 .gallery-isotope.grid-5 .gallery-item {
   width: 20%;
 }
+.topar{
+  z-index: 2;
+}
 .gallery-isotope.grid-5 .gallery-item.wide {
   width: 40%;
 }
