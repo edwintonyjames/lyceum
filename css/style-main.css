@@ -450,13 +450,17 @@ iframe {
   margin-bottom: 30px;
   padding-bottom: 10px;
 }
+.btn1{
+  background: #1b2e41 !important;
+}
 .line-bottom:after {
   bottom: -1px;
   content: "";
   height: 2px;
-  left: 0;
+  left: 10;
   position: absolute;
   width: 50px;
+  display: none;
 }
 .line-bottom-centered {
   position: relative;
@@ -5700,7 +5704,7 @@ blockquote p {
 }
 .panel-group .panel-title a.active::after {
   color: #fff;
-  content: "\f068";
+  content: "\f00c";
 }
 .panel-group .panel-title a::after {
   color: #888;
