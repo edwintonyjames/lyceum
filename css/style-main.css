@@ -460,10 +460,9 @@ iframe {
   bottom: -1px;
   content: "";
   height: 2px;
-  left: 10;
+  left: 0;
   position: absolute;
   width: 50px;
-  display: none;
 }
 .line-bottom-centered {
   position: relative;
