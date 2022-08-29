@@ -177,6 +177,9 @@ h2 .small,
   line-height: 1;
   color: #333333;
 }
+.foot-txt{
+  color: #d3d3d3;
+}
 h1 a,
 h2 a,
 .h1 a,
@@ -471,6 +474,13 @@ iframe {
   position: absolute;
   right: 0;
   width: 30px;
+}
+.text-red{
+  color: red !important;
+  text-decoration: none;
+}
+.footerlog{
+  max-width: 115px;
 }
 .title-icon [class^="flaticon-"]::after,
 .title-icon [class^="flaticon-"]::before {
