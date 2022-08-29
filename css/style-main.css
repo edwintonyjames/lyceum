@@ -2343,6 +2343,9 @@ form .error {
   .font-28{
     font-size: 25px !important;
   }
+  .mob-al{
+    text-align: center !important;
+  }
 }
 /* -------- Portfolio Isotop Gallery ---------- */
 .gallery-isotope {
