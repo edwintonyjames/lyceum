@@ -2340,6 +2340,9 @@ form .error {
   .portfolio-filter a {
     margin-bottom: 10px;
   }
+  .font-28{
+    font-size: 25px !important;
+  }
 }
 /* -------- Portfolio Isotop Gallery ---------- */
 .gallery-isotope {

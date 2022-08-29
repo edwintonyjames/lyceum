@@ -10,6 +10,15 @@ Rounded Boxed Skin
 	padding: 8px 16px;
 	border-radius: 30px;
 }
+.d-flex{
+	display: flex !important;
+}
+.justify-content-center{
+	justify-content: center !important;
+}
+.text-center{
+	text-align: center !important;
+}
 
 /* Active/hover state (Menu items) */
 .menuzord-menu > li.active > a,
