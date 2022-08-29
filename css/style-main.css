@@ -450,6 +450,9 @@ iframe {
   margin-bottom: 30px;
   padding-bottom: 10px;
 }
+.showhide{
+  color: white !important;
+}
 .btn1{
   background: #1b2e41 !important;
 }
