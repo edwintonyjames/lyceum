@@ -2340,12 +2340,21 @@ form .error {
   .portfolio-filter a {
     margin-bottom: 10px;
   }
+  
   .font-28{
     font-size: 25px !important;
   }
   .mob-al{
     text-align: center !important;
   }
+  .resp-txt{
+    font-size: 35px !important;
+  }
+  #rs-1-layer-3 {
+    font-size: 12px !important;
+    padding-top: 30px !important;
+  }
+  
 }
 /* -------- Portfolio Isotop Gallery ---------- */
 .gallery-isotope {
@@ -6471,4 +6480,12 @@ blockquote p {
   background-color: #eeeeee;
   border-color: #eeeeee;
   color: #333333;
+}
+.alignmain{
+  
+  
+    
+   justify-content: center;
+ 
+
 }
